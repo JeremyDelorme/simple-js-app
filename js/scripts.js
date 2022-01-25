@@ -1,3 +1,4 @@
+//Added square brackets to 'fire' type.
 let pokemonList = [
   {
     name: 'Bulbasaur',
